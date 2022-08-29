@@ -5,13 +5,13 @@ Este programa escrito en bash te permite conectarte a una red wifi desde el term
 - nmcli
 
 **Uso**
-```shell
+```
 git clone https://github.com/vid4l-07/wconnect.git
 ./wconnect
 ```
 
 Si le pasas el parametro n no te pide contraseña
-```shell
+```
 ./wconnect n
 ```
 
