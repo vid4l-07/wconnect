@@ -6,7 +6,7 @@ Este programa escrito en bash te permite conectarte a una red wifi desde el term
 
 **Uso**
 ```bash
-git clone 
+git clone https://github.com/vid4l-07/wconnect.git
 ./wconnect
 ```
 
