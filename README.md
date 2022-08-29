@@ -5,17 +5,17 @@ Este programa escrito en bash te permite conectarte a una red wifi desde el term
 *nmcli
 
 **Uso**
-'''bash
+```bash
 git clone 
 ./wconnect
-'''
+```
 
 Si le pasas el parametro n no te pide contraseña
-'''bash
+```bash
 ./wconnect n
-'''
+```
 
 Para ejecutarlo cuando quieras lo puedes poner en una ruta de la variable PATH
-'''bash
+```bash
 echo $PATH
-'''
+```
